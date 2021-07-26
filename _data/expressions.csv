@@ -1,0 +1,25 @@
+ID,Expression,Equivalent,Type,Frequency,Register,Dating,Tags
+1,Bonjour!,Bonjour,mot,1,colloquial,contemporary,#region:Bénin #theme:Politique
+2,Salut!,Bonjour,mot,1,colloquial,contemporary,#region:Bénin
+3,Ça va?,Ça va?,mot,2,colloquial,contemporary,#region:Bénin
+4,Quoi de neuf?,Ça va?,mot,1,colloquial,contemporary,#region:Bénin
+5,Allô,Bonjour,mot,4,colloquial,contemporary,#region:Bénin
+6,Enchanté,Bon après-midi,mot,3,colloquial,contemporary,#theme:Famille #region:République démocratique du Congo
+7,Bonne Chance!,Bonsoir,expression,5,colloquial,contemporary,#theme:Famille
+8,Au Revoir,Bonne nuit,expression,5,colloquial,contemporary,#theme:Famille
+9,Salut,Oui,expression,5,colloquial,contemporary,#theme:Famille
+10,Bon après-midi,Non,expression,5,colloquial,contemporary,#theme:Famille
+11,Bonsoir,Merci,expression,5,colloquial,contemporary,#theme:Famille #region:République démocratique du Congo
+12,Bonne nuit,De rien,expression,5,colloquial,contemporary,#theme:Famille
+13,Oui,Merci beaucoup,expression,5,colloquial,contemporary,#theme:Famille
+14,Non,S'il vous plaît,expression,5,colloquial,contemporary,#theme:Famille
+15,Merci,S'il te plaît,expression,5,colloquial,contemporary,#theme:Famille #region:République démocratique du Congo
+16,De rien,à bientôt,expression,4,colloquial,contemporary,#theme:Famille
+17,Merci beaucoup,à tout à l'heure,expression,2,colloquial,contemporary,#theme:Famille
+18,S'il vous plaît,à la prochaine,expression,3,colloquial,contemporary,#theme:Famille
+19,S'il te plaît,Comment tu t'appelles,expression,5,colloquial,contemporary,#theme:Famille #region:Kenya
+20,à bientôt,Bon après-midi,expression,1,colloquial,contemporary,#theme:Famille
+21,à tout à l'heure,Bonsoir,expression,4,colloquial,contemporary,#theme:Cars
+22,à la prochaine,Bonne nuit,expression,4,colloquial,contemporary,#theme:Famille
+23,Comment tu t'appelles,Oui,expression,2,colloquial,contemporary,#theme:Famille
+24,Comment vous appelez-vous?,Non,expression,2,colloquial,contemporary,#theme:Famille
