@@ -10,7 +10,9 @@ layout: home
 </script>
 
 	
-<div id="graph">THE GRAPH</div>
+<div id="graph" style='height:700px;background:#EEE;'></div>
 
 <script src="assets/js/3d-force-graph.min.js"></script>
 <script src="assets/js/graph.js"></script>
+<script src="//unpkg.com/three"></script>
+<script src="//unpkg.com/three-spritetext"></script>

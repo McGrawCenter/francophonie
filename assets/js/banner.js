@@ -6,10 +6,12 @@ jQuery(document).ready(function(){
 
 	var current = 0;
 	var images = [
+	   {"img":"assets/images/banners/banner03.jpg","attr":""},	
   	   {"img":"assets/images/banners/banner02.jpg","attr":""},
+  	   {"img":"assets/images/banners/banner05.jpg","attr":""},
+  	   {"img":"assets/images/banners/banner06.jpg","attr":""},  	     	   
   	   {"img":"assets/images/banners/cote-divoire.jpg","attr":""},
   	   {"img":"assets/images/banners/ivory-coast.jpg","attr":""},
-	   {"img":"assets/images/banners/banner03.jpg","attr":""},
 	   {"img":"assets/images/banners/banner04.jpg","attr":""}];
 
 	

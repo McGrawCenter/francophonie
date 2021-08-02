@@ -8,8 +8,8 @@ layout: home
 <div style="float:right;padding:0 0 2% 4%;">
 
 <ul style="list-style-type:none;">
-   <li><a href="?a=soumettre" class="aside"><h4>Soumettre</h4> Ajouter une phrase à notre dictionnaire</a></li>
-   <li><a href="?a=chercher" class="aside"><h4>Chercher</h4> Rechercher les mots et les expressions</a></li>
+   <li><a href="soumettre" class="aside"><h4>Soumettre</h4> Ajouter une phrase à notre dictionnaire</a></li>
+   <li><a href="chercher" class="aside"><h4>Chercher</h4> Rechercher les mots et les expressions</a></li>
 </ul>
 </div>
 	

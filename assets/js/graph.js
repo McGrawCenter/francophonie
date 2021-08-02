@@ -37,22 +37,31 @@ $(document).ready(function(){
 	//end init graph data
 	
 	
-	  
-	
 	var width = jQuery(".twelve").width();
 	var height = 700;
+	
 	
 	const Graph = ForceGraph3D()
 	   (document.getElementById('graph')).graphData(data)
 	     .width(width)
 	     .height(height)		     
-	     .nodeColor('#770000')
-	     .linkColor('red')
-	     .backgroundColor('black')
-	     .onNodeClick(jumptonode);
+	     .nodeColor(d => '#333')
+	     .linkColor(d => '#555')
+	     .linkWidth(3)
+	     .backgroundColor('#EEE')
+	     .onNodeClick(jumptonode)
+	     .nodeThreeObject(node => {
+		  const sprite = new SpriteText(node.name);
+		  sprite.material.depthWrite = false; // make sprite background transparent
+		  sprite.color = '#000';
+		  sprite.textHeight = 18;
+		  return sprite;
+		});
 		
 	
-	
+	function jumptonode(node) {
+	  console.log(node);
+	}
 	
 	
 	
